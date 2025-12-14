@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "東京のバスガール",
+  "base_artist": "初代コロムビア・ローズ",
+  "createdAt": "2025-12-14T11:09:25.346233Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京のバスガール",
+      "artist": "初代コロムビア・ローズ",
+      "has_synced": false,
+      "path": "select/pl_01_東京のバスガール_初代コロムビア・ローズ.txt"
+    }
+  ]
+}
